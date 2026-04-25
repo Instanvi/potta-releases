@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.3.5.0",
-    "downloadUrl":  "https://github.com/Instanvi/potta-releases/releases/download/v1.3.5.0/PottaSetup_v1.3.5.0.exe",
+    "version":  "1.3.5.1",
+    "downloadUrl":  "https://github.com/Instanvi/potta-releases/releases/download/v1.3.5.1/PottaSetup_v1.3.5.1.exe",
     "changelog":  {
                       "summary":  "Stability and reliability improvements.",
-                      "fullNotesUrl":  "https://github.com/Instanvi/potta-releases/releases/tag/v1.3.5.0"
+                      "fullNotesUrl":  "https://github.com/Instanvi/potta-releases/releases/tag/v1.3.5.1"
                   }
 }
